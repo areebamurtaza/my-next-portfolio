@@ -7,17 +7,17 @@ export default function Contact() {
                     <input
                         type="text"
                         placeholder="Name"
-                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900"
+                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900 text-gray-700"
                     />
                     <input
                         type="email"
                         placeholder="Email"
-                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900"
+                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900 text-gray-700"
                     />
                     <textarea
                         rows={5}
                         placeholder="Message"
-                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900"
+                        className="w-full rounded-lg border border-gray-300 px-4 py-3 outline-none focus:border-gray-900 text-gray-700"
                     />
                     <button
                         type="submit"

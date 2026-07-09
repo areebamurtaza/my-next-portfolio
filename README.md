@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+- Project title
+my portfolio website with next.js
+- Short description
+this website include 5 pages, components and responsice design
 
-First, run the development server:
+- Tech stack
+next.js typescript and tailwind css is used foe this project
+- How to run project locally
 
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- What I learned
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+i learned to use tailwind css and responsiveness in this was a new thing to me
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Difference between flex and grid
 
-## Learn More
+flexbox is used for 1D styling while grid is 2D
 
-To learn more about Next.js, take a look at the following resources:
+- Which layout was difficult and why
+stacking cards was the confusing part for me
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Problems faced and how they were solved
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+i was having issues in creating of project file. it failed 3 times before. because of that i could not focus on git, initialized project at last thats why my repo has only 2 commits.
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+also the navbar was not aligning properly so i took help from AI for that
+- Desktop and mobile screenshots

@@ -3,9 +3,7 @@ export default function Hero() {
     <section className="bg-gray-50 px-4 py-20">
       <div className="mx-auto grid max-w-6xl items-center gap-10 md:grid-cols-2">
         <div>
-          <p className="mb-3 text-sm font-medium uppercase tracking-wide text-gray-500">
-            Developer Portfolio
-          </p>
+        
           <h2 className="text-4xl font-bold tracking-tight text-gray-900 md:text-5xl">
             Hi, I’m Areeba Murtaza.
           </h2>
@@ -29,9 +27,9 @@ export default function Hero() {
         </div>
 
         <div className="rounded-xl bg-white p-6 shadow-sm border border-gray-200">
-          <h3 className="text-lg font-semibold text-gray-900">Quick Info</h3>
+          <h3 className="text-lg font-semibold text-gray-900">Current Role</h3>
           <p className="mt-3 text-gray-600">
-            Full stack developer intern focused on clean UI, responsive layouts, and practical solutions.
+            Full stack developer intern at Zylo Technologies focused on clean UI, responsive layouts, and practical solutions.
           </p>
         </div>
       </div>
